@@ -6,11 +6,11 @@ Each of these files contains an ordered list of links to existing online courses
 The learning path consists of 100, 200 and 300-level courses. You should be able to follow any 200-level course after you have completed most of the 100-level courses, etc.
 
 ## The basics (100 level)
-* [Data Science 101](../Data-Science-Basics-101.md)
+* [Data Science 101](./Data-Science-Basics-101.md)
 
 ## The main areas in data science (200 and 300 level)
-* [Data Science as an experimental process](../Data-Science-as-a-Process-201.md)
-* [Machine Learning Techniques](../Machine-Learning-Techniques-201.md)
+* [Data Science as an experimental process](./Data-Science-as-a-Process-201.md)
+* [Machine Learning Techniques](./Machine-Learning-Techniques-201.md)
 * Deep Learning
 * Big Data and Data Science
 
