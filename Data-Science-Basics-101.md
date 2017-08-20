@@ -3,9 +3,6 @@
 ## Introduction
 This introduction will cover the basic knowledge you need to begin learning data science. This includes: notions of statistics, programming languages and basic data manipulation techniques. Without a minimal foundation in mathematical and programming techniques, much of what follows in this learning path will be difficult to understand and assimilate.
 
-### Data Science vs. Machine Learning vs. Statistics
-In this learning path we will make no effort to distinguish between the above concepts. Ultimately, statistics is a branch of pure mathematics and data science and machine learning are branches of applied mathematics or computer science. However, everything covered in this learning path will fall under the broad concept of "mathematical techniques for analyzing data sets", whether you want to serve up product recommendations on your website or teach your car to drive itself.
-
 ## Having fun with data science (motivaitional intro)
 The following courses will give you a broad overview of what data science is and what kinds of problems you can solve with it. 
 
@@ -21,6 +18,7 @@ Pick your weapon! You cannot do data science without knowing how to program, and
 | Course Link | Programming Environment |
 |-------------|----------------------------|
 [R Programming](https://www.coursera.org/learn/r-programming) | R
+[Introduction to R for Data Science](https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-5) | R
 [Intro to data science in Python](https://www.coursera.org/learn/python-data-analysis) | Python
 
 You will need to setup a programming environment, which you should be able to use throughout this learning path. Take some time to get this setup correctly. The easier it is to navigate your environment, the easier and more enjoyable it will be to do data science.
